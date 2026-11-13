@@ -2823,8 +2823,8 @@ h2 {
 
 @media(max-width:600px) {
     #top {
-        right: auto;
-        left: 14px;
+        /* right: auto;
+        left: 14px; */
         bottom: 16px;
         width: 42px;
         height: 42px
